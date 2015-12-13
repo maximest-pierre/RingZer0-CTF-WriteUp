@@ -1,5 +1,5 @@
 <H1> Challenge 30: Hashing is more secure? </H1>
-<p>The main task for this challenge is to find the password hidden inside the javascript. As the name mentions, we are going to find the password inside of a hash.</p>
+<p>The main task for this challenge is to find the password hidden inside the JavaScript. As the name mentions, we are going to find the password inside of a hash.</p>
 1. First step is to view the source.
 
 2. Is to find the authentication script
