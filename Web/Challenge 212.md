@@ -8,3 +8,6 @@ So we are looking for the robots.txt.</p>
 <p>So by navigating to https://ringzer0team.com/robots.txt we can see there is an url
 that is Disallow <b>/16bfff59f7e8343a2643bdc2ee76b2dc/</b> so by looking at that
 url we can see the flag.<p>
+
+<p> As a funny story i had a little problem with this challenge i misspelled robots.txt as
+robot.txt. </p>
